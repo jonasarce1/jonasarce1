@@ -1,12 +1,10 @@
-## Hola soy Jonás 👋
+## Hola soy Jonás, bienvenido a mi Github 👋
 
 ## 👨‍💻 Sobre mí
 
 ¡Bienvenido a mi perfil de GitHub! Soy un estudiante de Ingeniería Informática apasionado por el desarrollo de software, con un enfoque especial en el desarrollo front-end y back-end e IA utilizando diversas tecnologías. Siempre estoy explorando nuevas herramientas y metodologías para mejorar mis habilidades y contribuir a proyectos innovadores.
 
 Ubicación: Madrid, España
-
-LinkedIn: [Jonás Arce](https://www.linkedin.com/in/jonas-arce-computer-engineering)
 
 ## 🎓 Educación
 
@@ -39,7 +37,7 @@ LinkedIn: [Jonás Arce](https://www.linkedin.com/in/jonas-arce-computer-engineer
 ## 💬 ¡Hablemos!
 
 - **LinkedIn**: [Jonás Arce](https://www.linkedin.com/in/jonas-arce-computer-engineering)
-- **Email**: [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email**: [jonasarceg@gmail.com](mailto:jonasarceg@gmail.com)
 
 ## 📈 Objetivos Personales
 
@@ -50,7 +48,7 @@ LinkedIn: [Jonás Arce](https://www.linkedin.com/in/jonas-arce-computer-engineer
 
 ![Jonás Arce's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasarce1&show_icons=true&theme=radical)
 
-## 📌 Repositorios Pinned
+## 📌 Pin de repositorios
 
 - [Practica-5---Distribuidos---Gatling](https://github.com/jonasarce1/Practica-5---Distribuidos---Gatling)
 - [TeachRating](https://github.com/jonasarce1/TeachRating)
